@@ -32,7 +32,7 @@ Love my work? Consider buying me a coffee!
 
 ## 📫 Connect With Me  
 <p align="left">
-  <a href="https://DevranYigitTekin">
+  <a href="https://github.com/DevranYigitTekin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>

@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Devran Yiğit Tekin!</h1>
 
-<!--
-**DevranYigitTekin/DevranYigitTekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 I'm learning Python and improving myself in the programming world.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies I Use  
+- 🐍 Python  
+
+---
+
+### ☕ Support Me  
+If you like my work and want to support me, you can buy me a coffee!  
+
+<p align="center">
+  <a href="YOUR_BUYMEACOFFEE_LINK">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow" alt="Buy Me a Coffee">
+  </a>
+</p>
+
+---
+
+### 📫 Contact Me  
+- 🏡 **GitHub:** [My GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)
